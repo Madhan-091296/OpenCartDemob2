@@ -1,0 +1,91 @@
+07/02/2024 08:20:40 AM: INFO: test_001_Account Registration Started
+07/02/2024 08:20:44 AM: INFO: Providing customer details for registration
+07/02/2024 08:20:45 AM: INFO: Account registration is passed..
+07/02/2024 08:20:48 AM: INFO: **** test_001_AccountRegistration finished *** 
+07/02/2024 08:28:53 AM: INFO: test_001_Account Registration Started
+07/02/2024 08:28:56 AM: INFO: Providing customer details for registration
+07/02/2024 08:29:07 AM: ERROR: Account registration is failed.
+07/02/2024 08:37:03 AM: INFO: test_001_Account Registration Started
+07/02/2024 08:37:06 AM: INFO: Providing customer details for registration
+07/02/2024 08:37:07 AM: INFO: Account registration is passed..
+07/02/2024 08:37:10 AM: INFO: **** test_001_AccountRegistration finished *** 
+07/02/2024 08:37:37 AM: INFO: test_001_Account Registration Started
+07/02/2024 08:37:40 AM: INFO: Providing customer details for registration
+07/02/2024 08:37:41 AM: INFO: Account registration is passed..
+07/02/2024 08:37:45 AM: INFO: **** test_001_AccountRegistration finished *** 
+07/02/2024 08:40:31 AM: INFO: test_001_Account Registration Started
+07/02/2024 08:40:34 AM: INFO: Providing customer details for registration
+07/02/2024 08:40:36 AM: INFO: Account registration is passed..
+07/02/2024 08:40:39 AM: INFO: **** test_001_AccountRegistration finished *** 
+07/02/2024 08:44:23 AM: INFO: test_001_Account Registration Started
+07/02/2024 08:44:26 AM: INFO: Providing customer details for registration
+07/02/2024 08:44:27 AM: INFO: Account registration is passed..
+07/02/2024 08:44:30 AM: INFO: **** test_001_AccountRegistration finished *** 
+07/02/2024 08:46:43 AM: INFO: test_001_Account Registration Started
+07/02/2024 08:46:46 AM: INFO: Providing customer details for registration
+07/02/2024 08:46:48 AM: INFO: Account registration is passed..
+07/02/2024 08:46:50 AM: INFO: **** test_001_AccountRegistration finished *** 
+07/02/2024 08:47:18 AM: INFO: test_001_Account Registration Started
+07/02/2024 08:47:22 AM: INFO: Providing customer details for registration
+07/02/2024 08:47:23 AM: INFO: Account registration is passed..
+07/02/2024 08:47:26 AM: INFO: **** test_001_AccountRegistration finished *** 
+07/02/2024 08:50:00 AM: INFO: test_001_Account Registration Started
+07/02/2024 08:50:05 AM: INFO: Providing customer details for registration
+07/02/2024 08:50:06 AM: INFO: Account registration is passed..
+07/02/2024 08:50:09 AM: INFO: **** test_001_AccountRegistration finished *** 
+07/02/2024 08:50:59 AM: INFO: test_001_Account Registration Started
+07/02/2024 08:51:02 AM: INFO: Providing customer details for registration
+07/02/2024 08:51:04 AM: INFO: Account registration is passed..
+07/02/2024 08:51:06 AM: INFO: **** test_001_AccountRegistration finished *** 
+07/02/2024 08:52:07 AM: INFO: test_001_Account Registration Started
+07/02/2024 08:52:11 AM: INFO: Providing customer details for registration
+07/02/2024 08:52:12 AM: INFO: Account registration is passed..
+07/02/2024 08:52:14 AM: INFO: **** test_001_AccountRegistration finished *** 
+07/02/2024 08:57:04 AM: INFO: test_001_Account Registration Started
+07/02/2024 08:57:08 AM: INFO: Providing customer details for registration
+07/02/2024 08:57:09 AM: INFO: Account registration is passed..
+07/02/2024 08:57:12 AM: INFO: **** test_001_AccountRegistration finished *** 
+07/03/2024 08:11:32 AM: INFO: test_001_Account Registration Started
+07/03/2024 08:11:35 AM: INFO: Providing customer details for registration
+07/03/2024 08:11:37 AM: INFO: Account registration is passed..
+07/03/2024 08:11:39 AM: INFO: **** test_001_AccountRegistration finished *** 
+07/03/2024 08:13:03 AM: INFO: test_001_Account Registration Started
+07/03/2024 08:13:06 AM: INFO: Providing customer details for registration
+07/03/2024 08:13:08 AM: INFO: Account registration is passed..
+07/03/2024 08:13:10 AM: INFO: **** test_001_AccountRegistration finished *** 
+07/03/2024 08:14:25 AM: INFO: ******* Starting test_002_login **********
+07/03/2024 08:14:29 AM: INFO: ******* End of test_002_login **********
+07/03/2024 08:15:17 AM: INFO: ******* Starting test_002_login **********
+07/03/2024 08:33:59 AM: INFO: **** Starting test_003_login_Datadriven *******
+07/03/2024 08:35:32 AM: INFO: **** Starting test_003_login_Datadriven *******
+07/03/2024 08:38:39 AM: INFO: **** Starting test_003_login_Datadriven *******
+07/03/2024 08:42:56 AM: INFO: **** Starting test_003_login_Datadriven *******
+07/03/2024 08:44:18 AM: INFO: **** Starting test_003_login_Datadriven *******
+07/03/2024 08:44:42 AM: INFO: **** Starting test_003_login_Datadriven *******
+07/03/2024 08:48:38 AM: INFO: **** Starting test_003_login_Datadriven *******
+07/03/2024 08:49:24 AM: INFO: **** Starting test_003_login_Datadriven *******
+07/03/2024 08:50:08 AM: INFO: ******* End of test_003_login_Datadriven **********
+07/03/2024 08:55:49 AM: INFO: **** Starting test_003_login_Datadriven *******
+07/03/2024 08:55:49 AM: INFO: **** Starting test_003_login_Datadriven *******
+07/03/2024 08:55:49 AM: INFO: **** Starting test_003_login_Datadriven *******
+07/03/2024 08:56:32 AM: INFO: ******* End of test_003_login_Datadriven **********
+07/03/2024 08:56:32 AM: INFO: ******* End of test_003_login_Datadriven **********
+07/03/2024 08:56:32 AM: INFO: ******* End of test_003_login_Datadriven **********
+07/08/2024 08:17:53 AM: INFO: **** Starting test_003_login_Datadriven *******
+07/08/2024 08:17:53 AM: INFO: **** Starting test_003_login_Datadriven *******
+07/08/2024 08:17:53 AM: INFO: **** Starting test_003_login_Datadriven *******
+07/08/2024 08:18:32 AM: INFO: ******* Starting test_002_login **********
+07/08/2024 08:18:32 AM: INFO: ******* Starting test_002_login **********
+07/08/2024 08:18:32 AM: INFO: ******* Starting test_002_login **********
+07/08/2024 08:18:37 AM: INFO: ******* End of test_002_login **********
+07/08/2024 08:18:37 AM: INFO: ******* End of test_002_login **********
+07/08/2024 08:18:37 AM: INFO: ******* End of test_002_login **********
+07/08/2024 08:18:39 AM: INFO: **** Starting test_003_login_Datadriven *******
+07/08/2024 08:18:39 AM: INFO: **** Starting test_003_login_Datadriven *******
+07/08/2024 08:18:39 AM: INFO: **** Starting test_003_login_Datadriven *******
+07/08/2024 08:22:42 AM: INFO: ******* Starting test_002_login **********
+07/08/2024 08:22:42 AM: INFO: ******* Starting test_002_login **********
+07/08/2024 08:22:42 AM: INFO: ******* Starting test_002_login **********
+07/08/2024 08:22:46 AM: INFO: ******* End of test_002_login **********
+07/08/2024 08:22:46 AM: INFO: ******* End of test_002_login **********
+07/08/2024 08:22:46 AM: INFO: ******* End of test_002_login **********
