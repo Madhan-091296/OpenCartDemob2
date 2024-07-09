@@ -12,7 +12,7 @@ class Test_Login_DDT():
    logger = LogGen.loggen()  # Logger
    path = os.path.abspath(os.curdir)+"\\testdata\\Opencart_LoginData.xlsx"
 
-   # @pytest.mark.sanity
+   @pytest.mark.sanity
    @pytest.mark.regression
    def test_login_ddt(self,setup):
        self.logger.info("**** Starting test_003_login_Datadriven *******")
