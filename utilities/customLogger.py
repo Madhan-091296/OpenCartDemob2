@@ -4,8 +4,8 @@ import os
 class LogGen():
     @staticmethod
     def loggen():
-        path = (os.path.dirname(
-            os.getcwd()) + "\\OpenCartDemob2\\logs\\automation.log")
+        path = (os.path.abspath(
+            os.getcwd()) + "\\logs\\automation.log")
         logger = logging.getLogger(__name__)  # Create or get a logger with the name of the current module.
         logger.setLevel(logging.DEBUG)
         formatter = logging.Formatter('%(asctime)s: %(levelname)s: %(message)s',
